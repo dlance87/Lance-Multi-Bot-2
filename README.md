@@ -1,9 +1,4 @@
-# for support join here [TorrentLeech-Gdrive](https://telegram.dog/GBotStore)
-# working example group [Leech Here](https://telegram.dog/GBotStore)
-
-# Telegram Torrent Leecher 🔥🤖
-
-A Telegram Torrent (and youtube-dl) Leecher based on [Pyrogram](https://github.com/pyrogram/pyrogram)
+Lance-Multi-Bot-2 😎
 
 # Benefits :-
     ✓ Telegram File mirrorring to cloud along with its unzipping, unrar and untar
@@ -24,8 +19,6 @@ A Telegram Torrent (and youtube-dl) Leecher based on [Pyrogram](https://github.c
 # TO-DO
 -   [x] Gdrive file clonning using Gclone
 
-### Credit goes to SpEcHiDe for his Publicleech repo.
-
 ## installing...
 
 ### The Easy Way
@@ -44,7 +37,7 @@ e)It should look like `app.json`. 🎉
 
 f)Then tap 👇👇
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy) #Revived
+
 
 Better buy a vps 😐 and follow [this](https://github.com/gautamajay52/TorrentLeech-Gdrive#process-to-run-this-bot-on-vps)
 
@@ -121,12 +114,6 @@ and everythin except `[NAME]`
 6. Paste copied config in `RCLONE_CONFIG`
 
 7. Hit deploy button.
-8. Examples:-
-<p align="center">
-
-  <img src="https://raw.githubusercontent.com/gautamajay52/TorrentLeech-Gdrive/master/rclone.jpg" width="470" height="150">
-
-</p>
 
 ## FAQ
 
@@ -232,11 +219,7 @@ the file will be uploaded as `new.txt`.
 
 ## Process to run this BOT on VPS
 
-- Clone this repo:
-```
-git clone https://github.com/gautamajay52/TorrentLeech-Gdrive torrentleech-gdrive
-cd torrentleech-gdrive
-```
+
 
 - Install requirements
 For Debian based distros
@@ -274,12 +257,3 @@ sudo docker run torrentleech-gdrive
 * send any one of the available command, as a reply to a valid link/magnet/torrent. 👊
 
 
-## Credits, and Thanks to
-* [GautamKumar(me)](https://github.com/gautamajay52/TorrentLeech-Gdrive) 😬
-* [SpEcHiDe](https://github.com/SpEcHiDe/PublicLeech) for his wonderful code😚
-* [Rclone Team](https://rclone.org) for theirs awesome tool☁️
-* [Dan Tès](https://telegram.dog/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
-* [Robots](https://telegram.dog/Robots) for their [@UploadBot](https://telegram.dog/UploadBot)
-* [@AjeeshNair](https://telegram.dog/AjeeshNait) for his [torrent.ajee.sh](https://torrent.ajee.sh)
-* [@gotstc](https://telegram.dog/gotstc), @aryanvikash, [@HasibulKabir](https://telegram.dog/HasibulKabir) for their TORRENT groups
-* [![CopyLeft](https://telegra.ph/file/b514ed14d994557a724cb.jpg)](https://telegra.ph/file/fab1017e21c42a5c1e613.mp4 "CopyLeft Credit Video")
