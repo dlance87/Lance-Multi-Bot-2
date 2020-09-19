@@ -37,10 +37,6 @@ e)It should look like `app.json`. 🎉
 
 f)Then deploy it on your server.
 
-
-
-Better buy a vps 😐 and follow [this](https://github.com/gautamajay52/TorrentLeech-Gdrive#process-to-run-this-bot-on-vps)
-
 ### The Legacy Way
 Simply clone the repository and run the main file:
 
