@@ -35,7 +35,7 @@ d)Tap to edit and just add `n` at last of name (Don't touch code🤦). ✍️
 
 e)It should look like `app.json`. 🎉
 
-f)Then tap 👇👇
+f)Then deploy it on your server.
 
 
 
